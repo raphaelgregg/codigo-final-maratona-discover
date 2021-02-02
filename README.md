@@ -13,14 +13,14 @@
   <img alt="dev.finances" src=".github/devfinances.png" width="100%">
 </p>
 
-## :Rocket: Tecnologias
+## :rocket: Tecnologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-## :Laptop: Projeto 
+## :laptop: Projeto 
 O deve.finances é uma aplicação de controle financeiro, onde é possivel cadastrar e excluir transações e ver o saldo de entrada e saída :Moneybags:
-## :Bookmark: Layout
+## :bookmark: Layout
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover">desse link</a>. É necessário ter conta no <a href="https://figma.com">Figma</a> para acessá-lo.
 ## :memo: Licença
 Esse projeto está sobre a licença MIT. Veja o arquivo <a href="#">LICENSE</a>
