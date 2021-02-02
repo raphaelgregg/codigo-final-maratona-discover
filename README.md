@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - HTML
 - CSS
 - JavaScript
-## :laptop: Projeto 
+## :notebook: Projeto 
 O deve.finances é uma aplicação de controle financeiro, onde é possivel cadastrar e excluir transações e ver o saldo de entrada e saída :Moneybags:
 ## :bookmark: Layout
 Você pode visualizar o layout do projeto através <a href="https://www.figma.com/file/7Vu9DzUaCZIV4nibzkjgB4/dev.finance%24-Maratona-Discover">desse link</a>. É necessário ter conta no <a href="https://figma.com">Figma</a> para acessá-lo.
